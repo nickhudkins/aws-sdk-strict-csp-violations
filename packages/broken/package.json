@@ -1,0 +1,14 @@
+{
+  "name": "broken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite > /dev/null 2>&1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-ec2": "3.199.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.1"
+  }
+}
